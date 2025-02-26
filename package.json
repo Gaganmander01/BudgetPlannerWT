@@ -2,7 +2,7 @@
   "name": "financetrackerapp",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Gaganmander01.github.io/financetrackerapp",
+  "homepage": "https://Gaganmander01.github.io/BudgetPlannerWT/",
   "dependencies": {
     "@google/generative-ai": "^0.22.0",
     "@testing-library/jest-dom": "^5.16.5",
